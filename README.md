@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Arch-blue?logo=arch-linux&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WindowManager-dwm-black?logo=x11&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scripting-Bash-lightgrey?logo=gnu-bash&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Programming-Go-orange?logo=go&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?logo=protonvpn&style=for-the-badge" />
